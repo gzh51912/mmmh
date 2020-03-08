@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#xy {
+  width: 81.33333vw;
+}
+
+#xy ul {
+  width: 100%;
+  margin-bottom: 14.66667vw;
+}
+
+#xy ul li {
+  width: 100%;
+  height: 27.46667vw;
+  border-bottom: solid 0.26667vw #ccc;
+}
+
+#xy ul li img {
+  display: inline-block;
+  width: 41.06667vw;
+  height: 27.46667vw;
+  float: left;
+}
+
+#xy ul li h3 {
+  display: inline-block;
+  width: 37.33333vw;
+  height: 5.86667vw;
+  float: right;
+  font-size: 4.53333vw;
+  line-height: 5.86667vw;
+  text-align: left;
+  color: #333;
+  overflow: hidden;
+  margin-top: 2.66667vw;
+}
+
+#xy ul li p {
+  display: inline-block;
+  width: 37.33333vw;
+  height: 5.86667vw;
+  float: right;
+  font-size: 3.46667vw;
+  line-height: 5.86667vw;
+  text-align: left;
+  color: #999;
+  overflow: hidden;
+}
+
+#xy ul li span {
+  display: inline-block;
+  width: 37.33333vw;
+  height: 5.86667vw;
+  float: right;
+  font-size: 3.2vw;
+  line-height: 5.86667vw;
+  text-align: left;
+  color: #999;
+  overflow: hidden;
+}

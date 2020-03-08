@@ -1,0 +1,89 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#login {
+  width: 100vw;
+}
+
+#login header {
+  width: 100vw;
+  height: 13.33333vw;
+  font-size: 4.26667vw;
+  line-height: 13.33333vw;
+  text-align: center;
+  color: #000;
+}
+
+#login header .left {
+  float: left;
+  margin-left: 2.66667vw;
+  height: 13.33333vw;
+  line-height: 13.33333vw;
+  color: #72b6ff;
+  font-weight: bold;
+}
+
+#login .o {
+  width: 100vw;
+  height: 13.33333vw;
+  font-size: 5.33333vw;
+  line-height: 13.33333vw;
+  color: #333;
+  text-align: left;
+  box-sizing: border-box;
+  padding-left: 2.66667vw;
+}
+
+#login .t {
+  width: 100vw;
+  height: 13.33333vw;
+  font-size: 4vw;
+  line-height: 13.33333vw;
+  color: #333;
+  text-align: left;
+  box-sizing: border-box;
+  padding-left: 2.66667vw;
+}
+
+#login .name {
+  width: 100vw;
+  height: 13.33333vw;
+  border-bottom: solid 0.26667vw #ccc;
+  margin-bottom: 2.66667vw;
+  line-height: 13.33333vw;
+}
+
+#login .name input {
+  width: 42.66667vw;
+  height: 10.66667vw;
+}
+
+#login .button {
+  width: 100vw;
+  height: 13.33333vw;
+  margin-bottom: 1.33333vw;
+}
+
+#login .button button {
+  display: inline-block;
+  width: 56vw;
+  height: 13.33333vw;
+  border-radius: 6.66667vw;
+  background: #fe6345;
+  color: #fff;
+  font-size: 4.26667vw;
+  line-height: 13.33333vw;
+  text-align: center;
+  margin: 0 auto;
+}
+
+#login .togo {
+  width: 100vw;
+  height: 13.33333vw;
+  font-size: 3.73333vw;
+  line-height: 13.33333vw;
+  color: #999;
+  text-align: right;
+}

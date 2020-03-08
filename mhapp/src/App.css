@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.footer {
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  border-top: 0.26667vw solid #ccc;
+}
+
+.footer li {
+  flex: 1;
+}

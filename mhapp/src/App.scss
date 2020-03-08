@@ -1,0 +1,19 @@
+@function vw($px) {
+  @return ($px / 750) *100vw;
+}
+
+
+$align:center;
+.App {
+  text-align: $align;
+}
+.footer{
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  width:100%;
+  border-top: vw(2) solid #ccc;
+  li{
+    flex:1;
+  }
+}

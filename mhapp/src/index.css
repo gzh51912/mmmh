@@ -1,0 +1,20 @@
+html{
+  font-size: 13.33333333333vw;
+}
+body{
+  margin:0;
+  font-size: 14px;
+}
+ul,ol{
+  list-style: none;
+  margin:0;
+  padding:0;
+}
+
+a{
+  text-decoration: none;
+  color:#000;
+}
+.active{
+  color:red;
+}

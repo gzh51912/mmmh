@@ -1,0 +1,160 @@
+html {
+  font-size: 5.33333vw;
+}
+
+.top-head {
+  min-height: 53.33333vw;
+}
+
+.search-bar-wrap.poss {
+  position: sticky;
+  top: -0.26667vw;
+  left: 0;
+  right: 0;
+  z-index: 6;
+  padding: 2.13333vw;
+}
+
+.search-bar-wrap.poss .search-bar {
+  padding: 1.6vw 2.66667vw;
+  min-height: 9.33333vw;
+  background: #f5f5f5;
+  border: 1px solid #e9e9e9;
+  border-radius: 9.33333vw;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+}
+
+.fl {
+  width: 100vw;
+  height: 10.66667vw;
+  background: #f5f5f5;
+  border-bottom: 0.26667vw solid #999;
+  margin-bottom: 2.4vw;
+  float: left;
+}
+
+.fl p {
+  display: inline-block;
+  height: 10.66667vw;
+  width: 17.33333vw;
+  text-align: center;
+  line-height: 10.66667vw;
+  font-size: 4.26667vw;
+  color: #333;
+}
+
+.lou1 {
+  width: 100vw;
+}
+
+.lou1 h3 {
+  float: left;
+  width: 100vw;
+  height: 8vw;
+  font-size: 4.26667vw;
+  line-height: 8vw;
+  text-align: left;
+  font-weight: bold;
+}
+
+.lou1 ul {
+  float: left;
+  width: 100vw;
+  min-height: 128vw;
+}
+
+.lou1 ul li {
+  width: 50vw;
+  height: 40vw;
+  float: left;
+}
+
+.lou1 ul li img {
+  display: inline-block;
+  width: 45.33333vw;
+  height: 26.66667vw;
+  margin-bottom: 1.06667vw;
+}
+
+.lou1 ul li p {
+  width: 50vw;
+  height: 4vw;
+  font-size: 3.73333vw;
+  line-height: 4vw;
+  color: #333;
+  text-align: left;
+  box-sizing: border-box;
+  padding-left: 2.4vw;
+}
+
+.lou1 ul li span {
+  display: inline-block;
+  width: 50vw;
+  height: 4vw;
+  font-size: 3.2vw;
+  line-height: 4vw;
+  color: #999;
+  text-align: left;
+  box-sizing: border-box;
+  padding-left: 2.4vw;
+}
+
+.lou2 {
+  width: 100vw;
+}
+
+.lou2 h3 {
+  float: left;
+  width: 100vw;
+  height: 8vw;
+  font-size: 4.26667vw;
+  line-height: 8vw;
+  text-align: left;
+  font-weight: bold;
+}
+
+.lou2 .last {
+  margin-bottom: 14.66667vw;
+}
+
+.lou2 ul {
+  float: left;
+  width: 100vw;
+  min-height: 106.66667vw;
+}
+
+.lou2 ul li {
+  width: 32.26667vw;
+  height: 50.13333vw;
+  float: left;
+  margin: 0 0.53333vw;
+}
+
+.lou2 ul li img {
+  display: inline-block;
+  width: 31.73333vw;
+  height: 38.93333vw;
+}
+
+.lou2 ul li p {
+  width: 100%;
+  height: 5.33333vw;
+  font-size: 4.26667vw;
+  line-height: 5.33333vw;
+  text-align: center;
+  color: #333;
+  overflow: hidden;
+}
+
+.lou2 ul li span {
+  display: inline-block;
+  width: 100%;
+  height: 5.33333vw;
+  font-size: 3.46667vw;
+  line-height: 5.33333vw;
+  text-align: center;
+  color: #999;
+  overflow: hidden;
+}
